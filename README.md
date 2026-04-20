@@ -10,7 +10,7 @@ The main goal is to practice **classes, arrays of objects, conditional logic, an
 
 ## 🛠️ Technologies Used
 - C++
-- Object-Oriented Programming (Classes & Obje
+- Object-Oriented Programming (Classes & Objec
 - Arrays
 - Conditional Statements (if–else)
 - Console Input/Output
