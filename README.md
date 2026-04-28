@@ -8,7 +8,7 @@ The main goal is to practice **classes, arrays of objects, conditional logic, an
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies U
 - C++
 - Object-Oriented Programming (Classes & Objects)
 - Arrays
