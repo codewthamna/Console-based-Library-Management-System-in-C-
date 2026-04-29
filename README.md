@@ -13,7 +13,7 @@ The main goal is to practice **classes, arrays of objects, conditional logic, an
 - Object-Oriented Programming (Classes & Objects)
 - Arrays
 - Conditional Statements (if–else)
-- Console Input/
+- Console Input/O
 
 ---
 
