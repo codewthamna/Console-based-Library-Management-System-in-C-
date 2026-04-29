@@ -41,5 +41,5 @@ The main goal is to practice **classes, arrays of objects, conditional logic, an
 Library-Management-System-Cpp
 
 │── library.cpp # Main C++ source code
-
+|
 └── README.md # Project documentation
