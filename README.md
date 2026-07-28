@@ -12,7 +12,7 @@ The main goal is to practice **classes, arrays of objects, conditional logic, an
 - C++
 - Object-Oriented Programming (Classes & Objects)
 - Arrays
-- Conditional Statements (if–else
+- Conditional Statements (if–else)
 - Console Input/Output
 
 ---
